@@ -1,4 +1,23 @@
 # vim-tutorial
 tutorial movie on vim
 
-wip...
+demo
+![demo](./demo.gif)
+
+demo(quick mode)
+![demo](./demo.png)
+
+# Usage
+```vim
+" run
+:Tutorial
+
+" stop
+:Tutorial deactive
+
+" without movie, only popup
+:Tutorial quick
+
+" close ALL popup
+:TutorialPopupclear
+```
