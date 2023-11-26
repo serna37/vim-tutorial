@@ -1,5 +1,5 @@
 # vim-tutorial
-tutorial movie on vim
+tutorial animation on vim
 
 demo
 ![demo](./demo.gif)
